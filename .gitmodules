@@ -1,0 +1,3 @@
+[submodule "uievents-code"]
+	path = uievents-code
+	url = https://github.com/w3c/uievents-code/
